@@ -4,9 +4,6 @@ Devops
 develop branch
 test branch
 New test branch
-<<<<<<< HEAD
 testing
-=======
 new main branch
 git cherry-pick
->>>>>>> 38f567c (new main branch1)
